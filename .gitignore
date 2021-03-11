@@ -102,7 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+<<<<<<< HEAD
 
 
 # My Own
 uploads/*
+=======
+>>>>>>> ba3f792262780fa7552323ac3b2c1a2ad5e3ba81
